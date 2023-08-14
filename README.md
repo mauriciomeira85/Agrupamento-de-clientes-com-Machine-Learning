@@ -4,6 +4,8 @@
 # 1. Introdução
 O agrupamento de clientes consiste é uma técnica que visa dividir o consumidores de determinada empresa em grupos específicos, os quais compartilham características em comuns, tais como desejos, hábitos, renda, gostos, dentre outros. Assim, é possível entender o perfil de consumo dos clientes e direcionar melhor as vendas.  Desse modo, a partir do conjunto de dados extraidos da plataforma [Kaggle](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset), este projeto tem a finalidade de agrupar os clientes com base nos atributos/características fornecidas pela base de dados.
 
+OBSERVAÇÃO: Caso não esteja conseguindo visualizar o arquivo do jupyter notebook aqui pelo Github, você pode acessar este link: (https://drive.google.com/file/d/1cn6QEx-3gnv3RsqFdRcNXL3jUx_GTgvk/view?usp=sharing)
+
 # 2. Objetivo
 O objetivo desse projeto é a aplicação de algoritmos de agrupamento com a finalidade de agrupar os clientes com base nos atributos/características fornecidas pela base de dados.
 
